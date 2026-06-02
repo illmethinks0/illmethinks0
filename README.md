@@ -19,6 +19,7 @@ My current work is mostly private product work, so I keep public proof in a sani
 - [Production Agent Systems](https://github.com/illmethinks0/gary-dobkin-proof-of-work/blob/main/case-studies/production-agent-systems.md) - Rails/Solid Queue orchestration, narrow agents, evidence capture, validation, monitoring, and Firecracker-backed isolated compute paths.
 - [Customer Success + AI Operations](https://github.com/illmethinks0/gary-dobkin-proof-of-work/blob/main/case-studies/customer-success-ai-operations.md) - how customer success discipline changes AI adoption: workflow ownership, handoffs, health signals, review gates, and time-to-value.
 - [Global Security Deployment](https://github.com/illmethinks0/gary-dobkin-proof-of-work/blob/main/case-studies/global-security-deployment.md) - lessons from leading 26-person global security onboarding across SIEM, IDS/IPS, EDR/MDR, US/EMEA/APAC, and 200+ monthly projects.
+- [Systems Built Index](https://github.com/illmethinks0/gary-dobkin-proof-of-work/blob/main/case-studies/systems-built-index.md) - sanitized map of current systems across compliance scanning, operational SaaS, risk-gated agents, document automation, monitoring, and governance.
 
 ## Background
 
@@ -28,4 +29,4 @@ My current work is mostly private product work, so I keep public proof in a sani
 
 ## Stack
 
-Rails 8, Ruby, PostgreSQL, Solid Queue, Rodauth, Pundit, MCP, TypeScript, Python, FastAPI, Next.js, React, OpenAPI, Playwright, Docker, Render, Firecracker, Tailscale, Langfuse, GitHub Actions.
+Rails 8, Ruby, PostgreSQL, Solid Queue, Rodauth, Pundit, RubyLLM, MCP, TypeScript, Python, Swift, FastAPI, Next.js, React, OpenAPI, Playwright, Docker, Render, Vercel, Firecracker, Tailscale, Langfuse, Supabase, Prisma, GitHub Actions.
