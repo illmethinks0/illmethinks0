@@ -1,56 +1,68 @@
-<h1 align="center">Gary</h1>
+# Gary Dobkin
 
-<p align="center">
-  Co-founder of <a href="https://paput.ai">Paput.ai</a> — building AI agents, automations, and operational systems for small businesses.
-</p>
+**AI systems builder, founder/operator, and customer success leader.**
 
-<p align="center">
-  Custom agents · workflow automation · AI consulting · workshops · Balearics
-</p>
+I build production agent systems and operational workflows for teams that need AI to be reliable, auditable, and useful in real customer environments.
 
-<h2 align="center">
-  <a href="https://paput.ai">Paput.ai</a>
-</h2>
+Currently building [Paput.ai](https://paput.ai) / EUCompli.ai: AI-powered automation and compliance workflows with durable task state, structured outputs, tool-backed execution, approval gates, observability, and evidence capture.
+
+[Paput.ai](https://paput.ai) | [LinkedIn](https://www.linkedin.com/in/gvbd) | [Email](mailto:gary@paput.ai)
 
 ---
 
-## Stack
+## What I Build
 
-<div align="center">
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" title="Python"/></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" title="TypeScript"/></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" title="React"/></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" title="Next.js"/></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" title="Node.js"/></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" title="FastAPI"/></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" title="Docker"/></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" title="PostgreSQL"/></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" title="Bash"/></code>
-  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" title="Git"/></code>
-</div>
+- **Production agent systems:** narrow agent roles, structured outputs, durable state, tool boundaries, validation loops, monitoring, and human approval gates.
+- **AI workflow platforms:** Rails/Solid Queue orchestration today, with a path into Firecracker-backed isolated compute for heavier analysis workloads and concurrent agent execution.
+- **Customer adoption systems:** onboarding, customer success, implementation playbooks, executive reporting, SLA discipline, escalation paths, and measurable time-to-value.
+- **Security deployment operations:** SIEM, IDS/IPS, EDR/MDR, security onboarding, readiness checks, deployment handoffs, and global delivery operations.
 
 ---
 
-## GitHub Activity
+## Selected Proof
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=illmethinks0&theme=dark&hide_border=true&area=true&bg_color=0D1117" width="100%" />
-</p>
+| Area | What It Shows |
+| --- | --- |
+| **Paput.ai / EUCompli.ai** | Production AI workflow and compliance platform patterns: structured agent outputs, persisted evidence, audit logs, queue-backed execution, auth, authorization, telemetry, and deployment posture. |
+| **Customer Success + AI Operations** | Ability to turn AI adoption into operating practice: workflow design, customer empathy, measurable onboarding, health systems, team cadence, automation, and executive visibility. |
+| **Global Security Deployment** | Led a 26-person global security onboarding organization across US, EMEA, and APAC, delivering 200+ monthly projects across SIEM, IDS/IPS, EDR/MDR, and security operations tooling. |
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=illmethinks0&theme=dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=illmethinks0&theme=dark&utcOffset=1" width="49%" />
-</div>
+Most product repositories are private because they include active product, customer, infrastructure, or security work. I keep public proof focused on sanitized case studies, architecture notes, and implementation summaries.
+
+---
+
+## Operating Background
+
+- Founded and exited a 12-year MSP serving 50+ HIPAA-sensitive veterinary hospitals.
+- Built customer success at Perch Security through acquisition by ConnectWise, reaching 1.7% churn, 96%+ CSAT, and 97% NPS.
+- Directed global security deployment operations at ConnectWise across 18 products, 3 regions, and 200+ monthly projects.
+- Building current AI systems around state, contracts, gates, evidence, traceability, and real deployment constraints.
+
+---
+
+## Current Stack
+
+Rails 8, Ruby, PostgreSQL, Solid Queue, Rodauth, Pundit, MCP, TypeScript, Python, FastAPI, Next.js, React, OpenAPI, Playwright, Docker, Render, Firecracker, Tailscale, Langfuse, GitHub Actions.
+
+---
+
+## Best Fit
+
+I am most useful where a company needs someone who can define the product, build the first reliable system, work directly with customers, and turn AI from a prototype into a governed workflow platform.
+
+Good fits include:
+
+- AI startup leadership
+- Forward-deployed AI
+- Agent systems
+- AI transformation and adoption
+- AI compliance/security platforms
+- Customer success and operations leadership with technical depth
 
 ---
 
 ## Connect
 
-<p align="left">
-  <a href="https://paput.ai">
-    <img align="center" src="https://img.shields.io/badge/Paput.ai-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gvbd">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+- Website: [paput.ai](https://paput.ai)
+- LinkedIn: [linkedin.com/in/gvbd](https://www.linkedin.com/in/gvbd)
+- Email: [gary@paput.ai](mailto:gary@paput.ai)
