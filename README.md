@@ -23,7 +23,7 @@ My current work is mostly private product work, so I keep public proof in a sani
 
 ## Background
 
-- Founded and exited a 12-year MSP serving 50+ HIPAA-sensitive veterinary hospitals.
+- Founded and exited a 12-year MSP serving 50+ AAHA/AVMA-oriented veterinary hospitals.
 - Built customer success at Perch Security through acquisition by ConnectWise, reaching 1.7% churn, 96%+ CSAT, and 97% NPS.
 - Directed global security deployment operations at ConnectWise across 18 products, 3 regions, and 200+ monthly projects.
 
