@@ -2,7 +2,7 @@
 
 Currently building [Paput.ai](https://paput.ai) / EUCompli.ai: AI-powered automation and compliance workflows for teams that need useful automation without months of implementation drag.
 
-My current work is mostly private product work, so I keep public proof in a sanitized repo: [gary-dobkin-proof-of-work](https://github.com/illmethinks0/gary-dobkin-proof-of-work).
+My current work is mostly private product work, so I keep public proof in a sanitized repo and short proof page: [gary-dobkin-proof-of-work](https://github.com/illmethinks0/gary-dobkin-proof-of-work) / [proof page](https://illmethinks0.github.io/gary-dobkin-proof-of-work/).
 
 [Paput.ai](https://paput.ai) | [LinkedIn](https://www.linkedin.com/in/gvbd) | [Email](mailto:gary@paput.ai)
 
